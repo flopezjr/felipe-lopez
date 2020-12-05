@@ -13,4 +13,3 @@ Out of all of these tools, I love working with Python, Pandas, APIs, PowerBI and
 <br>:taco::taco: **Foodie** - Tacos, Tacos & Tacos
 
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/felipe-lopez-ict/)!
-
